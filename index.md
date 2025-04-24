@@ -4,7 +4,7 @@ This is my home page! My name is Adrian Garcia and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/AdriG03.
+My GitHub page is [here](http://github.com/AdriG03).
 
 ### CPSC 120
 
